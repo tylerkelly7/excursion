@@ -1,6 +1,8 @@
 * {
+    align-content: center;
     font-family: Verdana;
-    align-content: center
+    font-size: 21px;
+    color: grey
     
   }
   
@@ -12,14 +14,16 @@
   }
 
   h3 {
-    color: aquamarine;
+    font-family: Verdana;
+    font-weight: normal;
     font-size: 16px;
+    color: aquamarine;
   }
   
   
   p, 
 
-
+  
   li {
     font-size: 18px;
   }
