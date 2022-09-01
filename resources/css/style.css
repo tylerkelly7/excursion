@@ -1,14 +1,25 @@
 * {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Verdana;
+    align-content: center
+    
   }
   
-  
   h1 {
-    color: SeaGreen;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+  }
+
+  h3 {
+    color: aquamarine;
+    font-size: 16px;
   }
   
   
   p, 
+
+
   li {
     font-size: 18px;
   }
